@@ -2,7 +2,6 @@
 <div>
   <p>
     - 👨 19 anos ...<br>
-    - 🏫 Cursando desenvolvimento web ...<br>
     - 👀 Estudando React.js e Typescript ...
   </p>
   
