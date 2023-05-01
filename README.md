@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Nickolas
 <div>
   <p> 
-    - Sou desenvolvedor fullsack na empresa Kawasaki, responsável pelo desenvolvimento de novas funcionalidades e ajustes nas demais ja existentes no sitema interno deles.
+    - Sou desenvolvedor fullsack na empresa Kawasaki, responsável pelo desenvolvimento de novas funcionalidades e ajustes nas demais ja existentes nos sitemas internos da empresa.<br>
     - 👨 20 anos ...<br>
     - 👀 Estudando React.js e Typescript ...
   </p>
